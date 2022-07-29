@@ -5,7 +5,7 @@ Hi, I'm Vlada. I'm so glad to join Kottans team.)
 Screenshots
 <details>
 <summary> 1 week</summary>
-![1 week](screenshots/1week.png)
+![1 week](https://github.com/Vlada-khom/kottans-frontend/blob/main/screenshots/1week.png)
 </details>
 <details>
 <summary> 1 week</summary>
