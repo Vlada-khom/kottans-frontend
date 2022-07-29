@@ -68,3 +68,21 @@ I knew new commands and see how it works, because I use it previously(commit, pu
 
 ### What was new?
 All Linux was new.HTTP was interesting.
+
+
+## Git Collaboration
+<details>
+<summary>3 week</summary>
+
+![quiz3](task_git_collaboration/3week.png)
+
+</details>
+<details>
+<summary>4 week</summary>
+
+![quiz4](task_git_collaboration/4week.png)
+
+</details>
+
+###What was new?
+rebase it's a good method for manipulation of commits.
