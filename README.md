@@ -86,3 +86,46 @@ All Linux was new.HTTP was interesting.
 
 ###What was new?
 rebase it's a good method for manipulation of commits.
+
+## Intro to HTML and CSS
+
+<details>
+<summary>1 week html</summary>
+
+![quiz3](task_html_css_intro/1weekHTML.png)
+
+</details>
+<details>
+<summary>2 week css</summary>
+
+![quiz3](task_html_css_intro/2weekCSS.png)
+
+</details>
+<details>
+<summary>tasks html/css</summary>
+
+![quiz3](task_html_css_intro/html.png)
+![quiz3](task_html_css_intro/css.png)
+
+</details>
+
+###What was new?
+pattern attribute in input was new for me but I have known the rest information. course is small and lector run through the top and css selectors I count other method.
+
+
+## JS Basics
+
+<details>
+<summary>tasks</summary>
+
+![quiz3](task_js_basics/jsBasic.png)
+![quiz3](task_js_basics/ES6.png)
+![quiz3](task_js_basics/functionalProgramming.png)
+![quiz3](task_js_basics/basicDataStructures.png)
+![quiz3](task_js_basics/basicAlgorithms.png)
+![quiz3](task_js_basics/Algorithm-11.png)
+
+</details>
+
+###What was new?
+As for me regexp in split was new, good practice for understanding reduce but I would like to see more practice on closure and recursion.
