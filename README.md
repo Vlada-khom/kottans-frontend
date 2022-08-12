@@ -112,6 +112,19 @@ rebase it's a good method for manipulation of commits.
 ###What was new?
 pattern attribute in input was new for me but I have known the rest information. course is small and lector run through the top and css selectors I count other method.
 
+## Responsive Web Design
+
+<details>
+<summary>tasks</summary>
+
+![quiz3](task_responsive_web_design/flex.png)
+![quiz3](task_responsive_web_design/grid.png)
+
+
+</details>
+
+###What was new?
+I know about grids and use it but a little bit.
 
 ## JS Basics
 
