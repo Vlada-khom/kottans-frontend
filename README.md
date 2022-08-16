@@ -84,7 +84,7 @@ All Linux was new.HTTP was interesting.
 
 </details>
 
-###What was new?
+### What was new?
 rebase it's a good method for manipulation of commits.
 
 ## Intro to HTML and CSS
@@ -109,7 +109,7 @@ rebase it's a good method for manipulation of commits.
 
 </details>
 
-###What was new?
+### What was new?
 pattern attribute in input was new for me but I have known the rest information. course is small and lector run through the top and css selectors I count other method.
 
 ## Responsive Web Design
@@ -123,8 +123,13 @@ pattern attribute in input was new for me but I have known the rest information.
 
 </details>
 
-###What was new?
+### What was new?
 I know about grids and use it but a little bit.
+
+## HTML&CSS practice
+
+[Demo](https://vlada-khom.github.io/popup/) |
+[Code base](https://github.com/Vlada-khom/popup)
 
 ## JS Basics
 
@@ -137,8 +142,20 @@ I know about grids and use it but a little bit.
 ![quiz3](task_js_basics/basicDataStructures.png)
 ![quiz3](task_js_basics/basicAlgorithms.png)
 ![quiz3](task_js_basics/Algorithm-11.png)
+![quiz3](task_js_basics/week4js.png)
 
 </details>
 
-###What was new?
+### What was new?
 As for me regexp in split was new, good practice for understanding reduce but I would like to see more practice on closure and recursion.
+
+
+## DOM
+<details>
+<summary>tasks</summary>
+
+![quiz3](task_js_dom/dom.png)
+![quiz3](task_js_dom/tasks10.png)
+
+
+</details>
