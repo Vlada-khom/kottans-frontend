@@ -164,6 +164,6 @@ As for me regexp in split was new, good practice for understanding reduce but I 
 
 <details>
 
-![Demo](https://vlada-khom.github.io/a-tiny-JS-world/)
+![Demo](https://github.com/Vlada-khom/a-tiny-JS-world)
 
 </details>
